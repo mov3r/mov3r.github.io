@@ -12,8 +12,8 @@
                 "signature": "0x39f54f754d4b84fb69c16d7a0ec7e35b803f2a45a6f06e48ad0f1c4f06583b2cbc0b3b9e7238f92da7c9f526c3796fd5c39815f78fe21c4d7a1cd1becbd4c40f"
             },
             "ido": {
-                "amount": "58249044757",
-                "signature": "0x533e594fd2821a634488d5f58c9b38e1e0f2bc0a0f22d2691cba6f988ac115515401d9f6c92320924cfb0cc47db6f0121d52625aacd2726f8f994e6d80a71504"
+                "amount": "370749044757",
+                "signature": "0x21f3424b07b872d0bc33b9b6fbbb39715fc7228a577397e20fca6439e3288bb183d3f402aaaeac3c1d4bb503c3cd05913e4cea272a1ff1e28bcbdc69aec02606"
             }
         },
         "0x0046c5d0863a7d899c7d9a1b0d7847af9cd18756060ee91ad82ef3152307dd06": {
@@ -26,12 +26,20 @@
             "airdrop": {
                 "amount": "750000000000",
                 "signature": "0xfc93bdc3cd83db0012459ff12db5aad43eaa18eea454242849cc50b7304a802078aa4c2a692f172542bf39fbf2d5d0cdb383ca6b1dd493b04986b52859771500"
+            },
+            "ido": {
+                "amount": "312500000000",
+                "signature": "0xcf41b771bd69250cb090407bf008c8d1b8cbeb351aa19ff5190748dd6f860d8616e98ab980008e964e10d1ec7074a8c50affcf1ed87c0de6073b6303c984f404"
             }
         },
         "0x421f73c0bcf5d23a6ddc8a213fff46eafe6c157fb7cba7792e3e157905126405": {
             "airdrop": {
                 "amount": "750000000000",
                 "signature": "0x6ee7d37628127feffb101272c455606dd75791b6acf95e033404bf397781ede6aca20f0d4d7d91d73950a85844cdcc075065acffa6e9ed18f91c646b42421d00"
+            },
+            "ido": {
+                "amount": "312500000000",
+                "signature": "0xc82b1633590daa227d585a71697ea38a12771e456b66009a24133a2d4da9aaa2eb2dffbc045e8ea9ddef22132959c300ca5128341363b386783c617ab18c7d0c"
             }
         },
         "0xc40f07d8ce132afddf19eafed5fce7d514b28a8448f987f397685186b88af5fe": {
