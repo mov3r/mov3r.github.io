@@ -294,8 +294,8 @@
         },
         "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
             "airdrop": {
-                "amount": "16000000000",
-                "signature": "0xc0e1f9270230a92cb076cdb78784c1940d3ad96a101c4ce455ac0ee36c64a1ffdb38dd08154a2fed1016e4acbe27638019d61cc328b02193ebeea2d3e2900203"
+                "amount": "987645321234",
+                "signature": "0x239d8119c373d1fa4b7b5191e70b475374cdea754fd80180b97008d844d6b712ea75bf4e4b42c544c53b375f83afb5800e52db9c5db41a4a9f2265fb02ec5f0a"
             },
             "ido": {
                 "amount": "1000000000",
