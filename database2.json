@@ -1,5 +1,11 @@
 {
     "claim": {
+        "0x273e500bcf0dd8ccc5594fc96a11404e14f1236edd6408090441093abb23bbb9": {
+            "airdrop": {
+                "amount": "100000000000",
+                "signature": "0x9ab08aa04f0ae317248e0bc6642a8b7c88461800a0fb26291157afcf4be83be25881a637f1903436f32aaae9815984323bf25c66da6e06011c653b6b0b297f01"
+            }
+        },
         "0x2d5a5c74828c62cea5eb88f843d70e965224cb6e28b0bfbb0381b309ad1112f7": {
             "airdrop": {
                 "amount": "100000000000",
