@@ -310,36 +310,6 @@
                 "signature": "0xc8c3605ccf68a1a411566bff7b9875b254ec9dcaa44b2c02c3d7312300a760df8ae5aeef332e2038487ff05a2600eb06b38ce886d6d8b56433d75d5c82ca9707"
             }
         },
-        "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
-            "airdrop": {
-                "amount": "987645321234",
-                "signature": "0x239d8119c373d1fa4b7b5191e70b475374cdea754fd80180b97008d844d6b712ea75bf4e4b42c544c53b375f83afb5800e52db9c5db41a4a9f2265fb02ec5f0a"
-            },
-            "ido": {
-                "amount": "1000000000",
-                "signature": "0x55dfb1ca81f0e73211eb86cc3d52f72759639ed15c50a90454756410627aa96409da0e182bfa290fbfa6dba9d636976f8eaec1ee85c5e5a2d421192c808b4505"
-            },
-            "investors": {
-                "amount": "1000000000",
-                "signature": "0x800efc2c97a5f5a00bbb575effdc215b2b112386265b414efa69230a8a027c53bc51103516a5a871a17dede854532215571f83aadbf2c57755e4b1cd4f0d0d05"
-            },
-            "team": {
-                "amount": "1000000000",
-                "signature": "0x5e6db529fffaf06c508533aa83118f89a80f11c789b6ba8d3c60134ad2e1fd1b53a77545e79e357ca2da4495f33354b013ef7d764d9e9fbf7e0c1c3aa2abc309"
-            },
-            "adviser": {
-                "amount": "1000000000",
-                "signature": "0x95ab38b0b6aac6f3c0df2b7e072a60a21693b7f8874f86b05d3fff204fa72501377eb47ce239fdbdf732644a9a92847092d697fbaff2584cb399ef714f217700"
-            },
-            "community": {
-                "amount": "1000000000",
-                "signature": "0xde9031426f197bbcdfd611a99ce4db9b59937af74424de2b6a2e775a5d0312a196f3018648f9d9211ae14d5afb57c3d7f8ceb63f33841da78234a62f54c4d30a"
-            },
-            "treasury": {
-                "amount": "1000000000",
-                "signature": "0x4d3c8db943948cfe3550c3b6e0993e324cf8db815966a5dc32a82185a82dc420f7392982eb46cae0cfe00e5b451f65fc191fe7278c4daa35cb5f1a599d6e1201"
-            }
-        },
         "0x009858bac330f9ba8baab7ebd5c55aa69362016a5ccb3a4c3f8e5e53faf0f3ef": {
             "airdrop": {
                 "amount": "69112000000",
