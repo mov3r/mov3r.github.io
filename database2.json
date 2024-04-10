@@ -6,6 +6,12 @@
                 "signature": "0xc21ed2d8899bc73a46efcbd8d82dff4b91b5a7b39e7a6e6ff79ba1fc6dbbf96ad0a9f950e16b3284c475c143e7e889156d009bea9f0a3c4db17959a290fead08"
             }
         },
+        "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
+            "team": {
+                "amount": "2000000000",
+                "signature": "0xc21347810184b1d8d21e7db0bc0cf0114accb138b33ef445f9fcfcfc916ea2879d097fed9998c5b7af5d9a9f31bc799e88166ac7ff25877418c0d06e4d93cf06"
+            }
+        },
         "0x273e500bcf0dd8ccc5594fc96a11404e14f1236edd6408090441093abb23bbb9": {
             "airdrop": {
                 "amount": "100000000000",
