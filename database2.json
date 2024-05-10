@@ -13,9 +13,9 @@
             }
         },
         "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
-            "team": {
+            "ido": {
                 "amount": "5000000000000",
-                "signature": "0xf2d411a106eaf9b7599f66e93d3430213527bc128ddfaa92a2ba17790aacb6f06458ff0b0d43b91a8d2e2de0ea99ac0272a4a3619ff97b532268d2c9ab0b4503"
+                "signature": "0x1e7542b46afe3279584b8e04ef168b51d1bd1a943b5c28a03dd9803a7515eac8856d14c5d61ff77a385ab1082393855b7722bca2ec319672d5678733eb8ddd06"
             }
         },
         "0x273e500bcf0dd8ccc5594fc96a11404e14f1236edd6408090441093abb23bbb9": {
